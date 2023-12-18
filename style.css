@@ -1,0 +1,20 @@
+body {
+    font-family: Courier;
+    line-height: 2;
+
+    background-color: #191919
+    color:  #00CED1;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+    color: #FFB6C1
+}
+
+ul > li {
+    text-align: center;
+}
